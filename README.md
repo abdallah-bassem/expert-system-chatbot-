@@ -58,7 +58,7 @@ A responsive and interactive AI chatbot application built with a Flask backend, 
 4.  **Configure Groq API Key:**
     For testing purposes, the Groq API key is currently added directly in the `back.py` file:
     ```python
-    api_key = "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"
+    api_key = "..."
     ```
     Ensure this key is valid if you intend to run the application. For production or shared environments, it's best practice to manage API keys more securely, for example, using environment variables.
 
